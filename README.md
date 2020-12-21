@@ -6,3 +6,7 @@ Identify The Doodle
 
 Game - 2 :-
 The Snake !
+
+
+THE SNAKE GAME - 
+(Based on Python Pygame Library).
