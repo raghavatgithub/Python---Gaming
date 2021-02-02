@@ -2,10 +2,10 @@
 Simple games coded In Python
 
 Game - 1 :-
-Identify The Doodle !
+The Snake !
 
 Game - 2 :-
-The Snake !
+Identify The Doodle !
 
 Game - 3 :-
 Tic - Tac - Toe !
